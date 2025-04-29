@@ -18,7 +18,7 @@ A professional GUI tool to **install or remove IIS features** on Windows Server 
 
 ## 🎨 GUI Preview
 
-![GUI Preview](2025-04-29_11h44_06.png) *(Optional)*
+![GUI Preview](2025-04-29_11h44_06.png)
 
 ---
 
